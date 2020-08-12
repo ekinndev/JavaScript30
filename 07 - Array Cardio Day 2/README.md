@@ -1,0 +1,1 @@
+Today I did some practices with array methods such as some,every,find,findIndex.
